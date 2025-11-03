@@ -8,7 +8,7 @@ const config = {
         {id: 'tom2', name: 'Tom 2', file: 'tom2.mp3', code: 'KeyH'},
         {id: 'clap', name: 'Clap', file: 'clap.mp3', code: 'KeyJ'}
     ],
-    soundPath: './sounds/',
+    soundPath: 'sounds/',
     sequenceDelay: 400,
     maxSequenceMultiplier: 2
 };
